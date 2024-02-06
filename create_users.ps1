@@ -1,4 +1,4 @@
-﻿$USERS_PASSWORD   = "Password1"
+﻿$USERS_PASSWORD = "Password1"
 $USER_FIRST_LAST_LIST = Get-Content .\names.txt
 
 $password = ConvertTo-SecureString $USERS_PASSWORD -AsPlainText -Force
