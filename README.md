@@ -47,8 +47,12 @@ Windows Server 2019: <br/><br />
  
 <img src="https://res.cloudinary.com/antofon/image/upload/v1707105120/Active%20Directory%20Lab/a2cdqnx3ozwsb3cqtrc4.png" height="60%" width="60%" alt="Windows Server 2019 in Oracle VM"/>
 <br /><br />
-<!-- PowerShell Script (Creates 100 users): <br/><br />
-<img src="https://res.cloudinary.com/antofon/image/upload/v1707105117/Active%20Directory%20Lab/ovfpxxb0mdob99dhtm10.png" height="60%" width="60%" alt="Windows Server 2019 in Oracle VM"/>--> <br/>
+Network Config: <br/><br />
+<img src="https://res.cloudinary.com/antofon/image/upload/v1707198488/Active%20Directory%20Lab/kpjk3rnsrununbwpjvlj.png" height="60%" width="60%" alt="Network Configuration"/><br /><br />
+PowerShell Script (Creates 100 users): <br/><br />
+<img src="https://res.cloudinary.com/antofon/image/upload/v1707197684/Active%20Directory%20Lab/dbgoxc7cxvph14qfn5rt.png" height="60%" width="60%" alt="PowerShell script that creates 100 users"/> <br/><br />
+Joining Windows 10 VM to domain: <br/><br />
+<img src="https://res.cloudinary.com/antofon/image/upload/v1707197814/Active%20Directory%20Lab/qyvyjxfpezvhzaafj3h5.png" height="60%" width="60%" alt="Joining Windows 10 VM to domain"/> <br/>
 
 </p>
 
@@ -60,7 +64,7 @@ Windows Server 2019: <br/><br />
 - <b>Active Directory Functionality: The domain controller was able to manage the client machine and users effectively.</b>
 - <b>PowerShell Script Execution: Successfully created one hundred users in Active Directory.</b>
 - <b>Client Machine Integration: The Windows 10 VM was successfully joined to the domain and could log in using domain credentials.</b>
- 
+
 <h2>Conclusion</h2>
 This project effectively demonstrates the setup and management of an Active Directory environment within a virtualized setting using Oracle VirtualBox. It provides a practical understanding of Windows networking, Active Directory configuration, and user management through PowerShell scripting. This hands-on experience is invaluable for anyone looking to deepen their understanding of network administration and Windows server management.
 <br />
