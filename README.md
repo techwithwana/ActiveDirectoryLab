@@ -1,4 +1,4 @@
-<h1>Active Directory Lab: Building and Managing a Virtual Network</h1>
+<h1>Active Directory: Building and Managing a Virtual Network</h1>
 
 <!--### [YouTube Demonstration](link goes here)-->
 
