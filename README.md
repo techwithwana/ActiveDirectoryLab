@@ -56,11 +56,10 @@ Joining Windows 10 VM to domain: <br/><br />
 
 </p>
 
-<h2>Metrics Before and After Configuration</h2>
+<h2>Key Metrics</h2>
 <p>The project's success was measured by the ability to set up a functional virtual network with a domain controller and a client machine, and the successful management of Active Directory users through PowerShell. Key metrics include:</p>
 
-<h2>Successful Deployment: Both VMs were set up and configured correctly.</h2>
-
+- <b>Successful Deployment: Both VMs were set up and configured correctly.</b>
 - <b>Active Directory Functionality: The domain controller was able to manage the client machine and users effectively.</b>
 - <b>PowerShell Script Execution: Successfully created one hundred users in Active Directory.</b>
 - <b>Client Machine Integration: The Windows 10 VM was successfully joined to the domain and could log in using domain credentials.</b>
